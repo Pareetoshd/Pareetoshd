@@ -14,7 +14,7 @@
 ![Repositories](https://img.shields.io/badge/Repositories-8pt-00BFFF?style=flat-square) 
 ![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Unknown-808080?style=flat-square)  
 ![Reviews](https://img.shields.io/badge/Reviews-Unknown-808080?style=flat-square) 
-![Commits](https://img.shields.io/badge/Commits-26pt-BF5FFF?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits-27pt-BF5FFF?style=flat-square)
 
 
 <!---
