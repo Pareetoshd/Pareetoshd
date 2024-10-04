@@ -7,6 +7,8 @@
 - Connect with me:
   www.linkedin.com/in/pareetoshd
 
+![Profile views](https://shields.io/badge/Profile%20views-771-blue)
+![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=flat-square)
 ![Commits](https://img.shields.io/badge/Commits-26pt-BF5FFF?style=flat-square)
 ![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=flat-square)
 ![Repositories](https://img.shields.io/badge/Repositories-8pt-00BFFF?style=flat-square) 
