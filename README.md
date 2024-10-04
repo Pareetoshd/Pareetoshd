@@ -1,12 +1,18 @@
 - 👋 Hi, I’m @Pareetoshd
-- 👀 I’m A passionate Cloud Engineer
-- 🌱 I’m currently learning AWS DEVOPS / Terraform / jenkins / CICD
-- 💞️ I’m looking to collaborate on Devops / Cloud
-- 💬 Ask me about aws
-- 📫 How to reach me dc299129@gmail.com 
-- Connect with me www.linkedin.com/in/pareetoshd
+- 👀 I’m A passionate Cloud Engineer 👨‍💼
+- 🌱 I’m currently learning AWS DEVOPS / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
+- 💞️ I’m looking to collaborate on Devops / Cloud ♾️
+- 💬 Ask me about aws 🖥️
+- 📫 How to reach me dc299129@gmail.com ✉️
+- Connect with me www.linkedin.com/in/pareetoshd  
 
-# A passionate Cloud Engineer 
+
+# A passionate Cloud Engineer ☁︎⋅
+![image](https://github.com/user-attachments/assets/901b9d84-2c72-4740-9872-49b3f28c3a0e)
+
+
+
+
 ![Profile views](https://shields.io/badge/Profile%20views-134-indigo)               ![AWS](https://img.shields.io/badge/AWS-Active-orange)   
 ![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=oval-square)           ![Commits](https://img.shields.io/badge/Commits-26pt-BF5FFF?style=flat-square)         
 ![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=flat-rectangle)        ![Repositories](https://img.shields.io/badge/Repositories-8pt-00BFFF?style=flat-square)
