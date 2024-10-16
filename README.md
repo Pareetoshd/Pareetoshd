@@ -8,7 +8,7 @@
 
 
 # A passionate Cloud Engineer ☁︎⋅
-![image](https://github.com/user-attachments/assets/901b9d84-2c72-4740-9872-49b3f28c3a0e)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funleashing-power-cloud-role-engineer-gopi-chand-v-zensc&psig=AOvVaw291L27BddRlfHX0cMAhSnO&ust=1729182161082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD7sdqnk4kDFQAAAAAdAAAAABAP 
 
 
 
