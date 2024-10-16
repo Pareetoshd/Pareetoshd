@@ -9,7 +9,7 @@
 
 # A passionate Cloud Engineer ☁︎⋅
  
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudiway.com%2Fdevops-cloud-engineer%2F&psig=AOvVaw291L27BddRlfHX0cMAhSnO&ust=1729182161082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD7sdqnk4kDFQAAAAAdAAAAABAY!]
+![image](https://github.com/user-attachments/assets/5871dabf-6f98-4bc5-b63f-aaccb4ba76ff)
 
 
 
