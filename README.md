@@ -8,8 +8,8 @@
 
 
 # A passionate Cloud Engineer ☁︎⋅
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funleashing-power-cloud-role-engineer-gopi-chand-v-zensc&psig=AOvVaw291L27BddRlfHX0cMAhSnO&ust=1729182161082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD7sdqnk4kDFQAAAAAdAAAAABAP 
-
+ 
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudiway.com%2Fdevops-cloud-engineer%2F&psig=AOvVaw291L27BddRlfHX0cMAhSnO&ust=1729182161082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD7sdqnk4kDFQAAAAAdAAAAABAY!]
 
 
 
