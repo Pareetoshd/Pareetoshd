@@ -22,6 +22,13 @@
  
 ![image](https://github.com/user-attachments/assets/5871dabf-6f98-4bc5-b63f-aaccb4ba76ff)
 
+**<h3 align="left">Skills</h3>**
+
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker" style="margin-right: 4px"> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" style="margin-right: 4px"></div>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px"> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" style="margin-right: 4px"> <img 
 
 
 ![Profile views](https://shields.io/badge/Profile%20views-134-indigo)               ![AWS](https://img.shields.io/badge/AWS-Active-orange)   
