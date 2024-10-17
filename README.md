@@ -14,8 +14,9 @@
 - 🌱 I’m currently learning AWS DEVOPS / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
 - 💞️ I’m looking to collaborate on Devops / Cloud ♾️
 - 💬 Ask me about aws 🖥️
+- ⚡ Fun fact: **🎢 Once Pipeline failed myself found on a roller coaster!**
 - 📫 How to reach me dc299129@gmail.com ✉️
-- Connect with me www.linkedin.com/in/pareetoshd  
+- Connect with me www.linkedin.com/in/pareetoshd 
 
 
 # A passionate Cloud Engineer ☁︎⋅
@@ -24,8 +25,7 @@
 
 **<h3 align="left">Skills</h3>**
 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px"> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" style="margin-right: 4px"> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="AWS" style="margin-right: 4px"></div>
 
 
 ![Profile views](https://shields.io/badge/Profile%20views-134-indigo)               ![AWS](https://img.shields.io/badge/AWS-Active-orange)   
