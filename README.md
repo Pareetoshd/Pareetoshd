@@ -1,4 +1,15 @@
-- 👋 Hi, I’m @Pareetoshd
+![👋 Hi, my name is Pareetoshd](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Pareetoshd
+      </h1>
+    </summary>
+  </ul>
+</div>
+
 - 👀 I’m A passionate Cloud Engineer 👨‍💼
 - 🌱 I’m currently learning AWS DEVOPS / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
 - 💞️ I’m looking to collaborate on Devops / Cloud ♾️
