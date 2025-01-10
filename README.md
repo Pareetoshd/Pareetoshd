@@ -17,7 +17,7 @@
 
 - 👀 I’m A passionate Cloud Engineer 👨‍💼
 - 🌱 I’m currently learning AWS DEVOPS / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
-- 💞️ I’m looking to collaborate on Devops / Cloud ♾️
+- 💞️ I’m looking to collaborate on   Cloud / Devops ♾️
 - 💬 Ask me about aws 🖥️
 - ⚡ Fun fact: **🎢 Once Pipeline failed myself found on a roller coaster!**
 - 📫 How to reach me dc299129@gmail.com ✉️
