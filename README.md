@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently working on Cloud/Devops👨‍💼
-- 🌱 I’m currently learning AWS DEVOPS / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
+- 🌱 I’m currently working on AWS DEVOPS / ☸️ EKS / 📦 ECR / Terraform 🏗️ / jenkins / CICD 🛠️ / Docker 🐋
 - 💬 Ask me about aws 🖥️
 - ⚡ Fun fact: **🎢 Once Pipeline failed myself found on a roller coaster!**
 - 📫 How to reach me dc299129@gmail.com ✉️
