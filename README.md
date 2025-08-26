@@ -34,7 +34,7 @@
 
 **<h3 align="left">GitHub Stats</h3>**
 
-![Profile views](https://shields.io/badge/Profile%20views-167-indigo)               ![AWS](https://img.shields.io/badge/AWS-Active-orange)   
+![Profile views](https://shields.io/badge/Profile%20views-467-indigo)               ![AWS](https://img.shields.io/badge/AWS-Active-orange)   
 ![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=oval-square)           ![Commits](https://img.shields.io/badge/Commits-26pt-BF5FFF?style=flat-square)         
 ![Stars](https://img.shields.io/badge/Stars-1pt-FBCA04?style=flat-rectangle)        ![Repositories](https://img.shields.io/badge/Repositories-8pt-00BFFF?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-14.0.0-lilac)                       ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-plum)  
